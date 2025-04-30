@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+
+# Env
+*.env
+
+# Vite
+client/.vite/
+
+# Logs
+*.log
+
+# Systemowe
+.DS_Store
